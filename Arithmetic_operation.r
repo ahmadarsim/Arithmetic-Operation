@@ -51,3 +51,56 @@ x<-c(23,12,3,21,2,12,1,2,15,4,1 )
 y<-c(2,12,1,2,1,2,1,21,2,13,4 )
 
 print(x*y)
+
+
+a<- 325
+b<-20
+
+print(a/b)
+
+
+bananas_price =120
+bananas_price1 = 12
+print(bananas_price/bananas_price1)
+
+
+x<- c(12,45,6,78,52,65,22)
+y<- c(2,5,4,5,6,7,8)
+print(x/y)
+
+
+
+x<-2
+y<-5
+print(x^y)
+
+
+a<- c(3,5,4,7,9,8)
+b<- c(3,2,3,2,5,4)
+
+print(a^b)
+
+#reminder
+x<- 9
+y<-2
+print(x%%y)
+
+
+a<-c(25,63,42,85,95,62)
+b<-c(5,2,6,4,3,8)
+
+print(a%%b)
+
+
+
+#quotient(answer)
+a<- 17
+b<- 3
+print(a%/%b)
+
+a<-c(25,63,42,85,95,62)
+b<-c(5,2,6,4,3,8)
+
+print(a%/%b)
+
+
