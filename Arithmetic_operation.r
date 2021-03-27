@@ -13,7 +13,7 @@ print(c)
 Ali_has_mangos <- 15
 Aslam_has_mangos <- 6
 total_mangos = Ali_has_mangos + Aslam_has_mangos 
-print( 'total mangos=', total_mangos )
+print( total_mangos )
 
 x <- c( 12,25,45,65,98 )
 y <- c( 22,65,45,85,25 )
@@ -28,7 +28,7 @@ print(c)
 
 Qasim_have_rs=3625
 Uzair_have_rs =2225
-print("how much have more ruppes uzair than qasim ",Uzair_have_rs - Qasim_have_rs)
+print(Uzair_have_rs - Qasim_have_rs)
 
 
 x <- c(25,45,65,9,57,5,85,96,56,45)
